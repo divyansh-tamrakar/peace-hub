@@ -7,13 +7,13 @@ const NavBar = () => {
     <nav className='nav'>
       <ul className='nav-links'>
         <li>
-          <Link className="links" to="header" smooth={true} duration={1000}>Home</Link>
+          <Link className="links" to="headerId" smooth={true} duration={1000}>Home</Link>
         </li>
         <li>
-          <Link className="links" to="contact" smooth={true} duration={1000}>Contact</Link>
+          <Link className="links" to="contactId" smooth={true} duration={1000}>Contact</Link>
         </li>
         <li>
-          <Link className="links" to="about" smooth={true} duration={1000}>About</Link>
+          <Link className="links" to="aboutId" smooth={true} duration={1000}>About</Link>
         </li>
       </ul>
     </nav>
