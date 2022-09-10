@@ -3,7 +3,9 @@ import '../Header/Header.css'
 
 const Header = () => {
   return (
-    <div className='header' id='header'>Header</div>
+    <div className='header' id='headerId'>
+        <h1>Header</h1>
+    </div>
   )
 }
 
