@@ -1,4 +1,5 @@
 import './App.css';
+import About from './components/About/About';
 import Contacts from './components/Contacts/Contacts';
 import Header from './components/Header/Header';
 import NavBar from './components/Navigation/NavBar';
@@ -10,7 +11,10 @@ function App() {
       <NavBar />
       <Header />
       <Posts />
-      <Contacts />
+      <footer className='footer' id='footerId'>
+        <About />
+        <Contacts />
+      </footer>
     </div>
   );
 }
