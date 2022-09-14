@@ -17,11 +17,11 @@
   align-items: center;
   width: 80%;
   min-height: 8vh;
-  background: var(--primary);
+  /* background: black; */
   position: relative;
   position: sticky;
   z-index: 1;
-  opacity: 0.9;
+  /* opacity: 1; */
   top: 2.5px;
   left: 10%;
   border-radius: 50px;

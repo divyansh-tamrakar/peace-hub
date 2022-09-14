@@ -11,3 +11,63 @@
     height: 100vh;
     color: aliceblue;
 }
+
+.left {
+    position: absolute;
+    margin: 8em;
+    float: left;
+    text-align: left;
+}
+
+.left h4 {
+    font-size: 45px;
+    padding-bottom: 5px;
+    color: rgb(100, 92, 170);
+}
+
+.left-down {
+    display: flex;
+    flex-direction: column;
+}
+
+.discuss {
+    font-size: 75px;
+    color: rgb(160, 132, 202);
+    padding-left: 100px;
+}
+
+.learn {
+    font-size: 75px;
+    color: rgb(191, 172, 224);
+    padding-left: 300px;
+}
+
+.and {
+    color: azure;
+}
+
+.code {
+    font-size: 75px;
+    color: rgb(235, 199, 232);
+    padding-left: 500px;
+}
+
+.right {
+    position: relative;
+    float: right;
+    margin: 8em 8em 0 0;
+}
+
+.right h3 {
+    letter-spacing: 3px;
+}
+
+.bottom {
+    padding-top: 32.5em;
+}
+
+.bottom p {
+    letter-spacing: 1.5px;
+    padding: 0 50px 0 50px;
+    color: rgb(238, 238, 238);
+}

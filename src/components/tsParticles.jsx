@@ -35,11 +35,11 @@ const Particlests = (props) => {
         particles: {
           links: {
             enable: true,
-            distance: 200,
+            distance: 90,
           },
           move: {
             enable: true,
-            speed: { min: 1, max: 5 },
+            speed: { min: 1, max: 3 },
           },
           opacity: {
             value: { min: 0.3, max: 0.7 },
