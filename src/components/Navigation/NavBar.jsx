@@ -13,11 +13,11 @@ const NavBar = () => {
           <Link className="links" to="postId" smooth={true} duration={1000}>Posts</Link>
         </li>
         <li>
-          <Link className="links" to="contactId" smooth={true} duration={1000}>Contact</Link>
+          <Link className="links" to="contactId" smooth={true} duration={1000}>Contact Us</Link>
         </li>
-        <li>
+        {/* <li>
           <Link className="links" to="aboutId" smooth={true} duration={1000}>About</Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   )

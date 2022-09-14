@@ -8,9 +8,8 @@
 }
 
 .about {
-    height: 50vh;
+    height: 60vh;
     width: 45%;
     position: relative;
-    left: 5%;
-    background-color: rgb(58, 226, 43);
+    color: aliceblue;
 }
