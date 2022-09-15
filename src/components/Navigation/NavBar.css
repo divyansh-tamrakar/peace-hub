@@ -17,7 +17,7 @@
   align-items: center;
   width: 80%;
   min-height: 8vh;
-  /* background: black; */
+  background: black;
   position: relative;
   position: sticky;
   z-index: 1;
