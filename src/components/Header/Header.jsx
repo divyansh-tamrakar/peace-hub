@@ -2,6 +2,7 @@ import React from 'react'
 import '../Header/Header.css'
 import Particlests from '../tsParticles'
 import { Button } from '@mui/material'
+import CollegeSocial from '../Social/CollegeSocial'
 
 const Header = () => {
   return (
@@ -18,6 +19,7 @@ const Header = () => {
           <Button variant="outlined" href='https://www.pescemandya.org/' target='_blank'>
             <h3>PESCE</h3>
           </Button>
+          <CollegeSocial />
         </div>
         <div className='bottom'>
           <p>(Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos officiis corrupti, eveniet quo cupiditate vel labore provident maiores)</p>
