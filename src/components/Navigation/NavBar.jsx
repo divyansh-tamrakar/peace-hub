@@ -10,7 +10,7 @@ const NavBar = () => {
           <Link className="links" to="headerId" smooth={true} duration={1000}>Home</Link>
         </li>
         <li>
-          <Link className="links" to="postId" smooth={true} duration={1000}>Posts</Link>
+          <Link className="links" to="aboutId" smooth={true} duration={1000}>About</Link>
         </li>
         <li>
           <Link className="links" to="contactId" smooth={true} duration={1000}>Contact Us</Link>
