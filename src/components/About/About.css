@@ -7,9 +7,7 @@
     box-sizing: border-box;
 }
 
-.about {
-    height: 60vh;
-    width: 45%;
-    position: relative;
+.post {
+    height: 100vh;
     color: aliceblue;
 }
