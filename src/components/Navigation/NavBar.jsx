@@ -15,9 +15,6 @@ const NavBar = () => {
         <li>
           <Link className="links" to="contactId" smooth={true} duration={1000}>Contact Us</Link>
         </li>
-        {/* <li>
-          <Link className="links" to="aboutId" smooth={true} duration={1000}>About</Link>
-        </li> */}
       </ul>
     </nav>
   )
