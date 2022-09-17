@@ -1,7 +1,7 @@
 import './App.css';
 import About from './components/About/About';
-import Contacts from './components/Contacts/Contacts';
 import Header from './components/Header/Header';
+import Contacts from './components/Contacts/Contacts';
 import NavBar from './components/Navigation/NavBar';
 
 function App() {
@@ -11,7 +11,6 @@ function App() {
       <Header />
       <About />
       <footer className='footer' id='footerId'>
-        {/* <About /> */}
         <Contacts />
       </footer>
     </div>
