@@ -15,12 +15,13 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 8vh;
+  height: 8.5vh;
   width: 90%;
   left: 5%;
   position: sticky;
   top: 0;
   z-index: 1;
+  background: black;
 }
 
 .name {
