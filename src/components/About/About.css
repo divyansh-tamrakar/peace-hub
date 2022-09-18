@@ -19,7 +19,8 @@
     text-align: center;
     margin: 2rem 0;
 }
-.container{
+
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,10 +40,9 @@
     flex-direction: column;
     height: 90%;
     /* margin-left: 320px; */
-
 }
 
-.about-text{
+.about-text {
     line-height: 2rem;
     max-width: 1200px;
     padding: 0 2rem;
