@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "@mui/material/Button";
 import "./About.css";
 
 const About = () => {
@@ -16,6 +17,9 @@ const About = () => {
               voluptatibus voluptate ullam quisquam dolores laboriosam
               aspernatur sequi, quia animi consequatur debitis!
             </p>
+          </div>
+          <div class="button">
+          <Button color="secondary">Sign Up now!! </Button>
           </div>
         </div>
       </div>
