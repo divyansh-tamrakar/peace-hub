@@ -52,9 +52,10 @@
   /* background-color: red; */
   height: 65vh;
 }
-p {
+
+.about-text p {
   font-weight: 600;
-  font-family: Georgia, serif;
+  /* font-family: Georgia, serif; */
   font-size: 23px;
   letter-spacing: 0.6px;
   word-spacing: 2px;
@@ -71,6 +72,7 @@ p {
   background: #f4d1ed;
   border-radius: 10px;
 }
+
 .button:hover {
   background-color: black;
   /* color: black; */

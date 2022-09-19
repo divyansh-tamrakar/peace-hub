@@ -19,7 +19,7 @@ const About = () => {
             </p>
           </div>
           <div class="button">
-          <Button color="secondary">Sign Up now!! </Button>
+            <Button color="secondary">Sign Up now!!</Button>
           </div>
         </div>
       </div>
