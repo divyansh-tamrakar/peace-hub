@@ -55,7 +55,8 @@
   font-size: 1.2rem;
   height: 65vh;
 }
- p {
+
+.about-text-1 p {
   font-weight: 600;
   /* font-family: Georgia, serif; */
   font-size: 23px;
@@ -63,9 +64,11 @@
   word-spacing: 2px;
   padding-inline-start: 0rem;
 }
+
 .head_1{
   font-size: 47px;
 }
+
 .innerspan_1{
   font-weight: 200;
   color: #A3EBB1;
@@ -87,5 +90,4 @@
   border: none;
   cursor: pointer;
   background: #2E8BC0;
-
 }
