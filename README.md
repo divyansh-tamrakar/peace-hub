@@ -1,3 +1,16 @@
+# How to start frontend (React.js + CSS)
+    Make sure you have git and npm installed in your local machine.
+
+    Steps:
+        1. Clone this repo
+            https://github.com/nayanishant/peace-hub.git
+
+        2. Install all the dependencies
+            npm install
+        
+        3. Start the application development server
+            npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
