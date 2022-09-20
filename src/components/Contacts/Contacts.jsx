@@ -9,7 +9,7 @@ const Contacts = () => {
         {
           TeamMembers.map((members) => {
             return (
-              <div className='card-items' id={members.id}>
+              <div className='card-items' key={members.id}>
                 <div className="img-area">
                   <div className="inner-area">
                     <img src={members.img} alt="#" />

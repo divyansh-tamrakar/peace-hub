@@ -18,7 +18,7 @@ const About = () => {
               aspernatur sequi, quia animi consequatur debitis!
             </p>
           </div>
-          <div class="button">
+          <div className="button">
             <Button color="secondary">Sign Up now!!</Button>
           </div>
         </div>
