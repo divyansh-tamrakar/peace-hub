@@ -19,17 +19,11 @@ const About = () => {
               voluptatibus voluptate ullam quisquam dolores laboriosam
               aspernatur sequi, quia animi consequatur debitis!
             </p>
-<<<<<<< HEAD
-          </div>
-          <div className="button">
-            <Button color="secondary">Sign Up now!!</Button>
-=======
             <div className="btn">
               <button className="button">
-                <span>Sign Up now! </span>
+                <span>Sign Up now!</span>
               </button>
             </div>
->>>>>>> 1e754c6cb2179f74e2caed030625f9c50ab97fc1
           </div>
         </div>
       </div>
