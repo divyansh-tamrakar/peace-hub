@@ -5,7 +5,7 @@ import Button from '@mui/material/Button';
 
 const NavBar = () => {
   return (
-    <container className='parent'>
+    <div className='parent'>
       <header className='name'>
         <h3>Nishant</h3>
       </header>
@@ -25,7 +25,7 @@ const NavBar = () => {
       <div className='signup'>
         <Button variant="text" sx={{color:'#BC6FF1'}}>Sign Up</Button>
       </div>
-    </container>
+    </div>
   )
 }
 
