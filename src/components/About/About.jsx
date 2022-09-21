@@ -4,9 +4,9 @@ import "../About/About.css";
 const About = () => {
   return (
     <div className="about" id="aboutId">
-      <div className="title">
+      {/* <div className="title">
         <h1>About</h1>
-      </div>
+      </div> */}
       <div className="container">
         <div className="about_content">
           <div className="about-text-1">
@@ -19,12 +19,13 @@ const About = () => {
               voluptatibus voluptate ullam quisquam dolores laboriosam
               aspernatur sequi, quia animi consequatur debitis!
             </p>
-          </div>
             <div className="btn">
               <button className="button">
                 <span>Sign Up now!</span>
               </button>
             </div>
+          </div>
+            
         </div>
       </div>
     </div>
