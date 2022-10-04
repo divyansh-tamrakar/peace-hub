@@ -3,6 +3,7 @@ import About from './components/About/About';
 import Header from './components/Header/Header';
 import Contacts from './components/Contacts/Contacts';
 import NavBar from './components/Navigation/NavBar';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <About />
       <footer className='footer' id='footerId'>
         <Contacts />
+        <Footer />
       </footer>
     </div>
   );
