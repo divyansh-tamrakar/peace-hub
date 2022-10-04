@@ -12,7 +12,7 @@ const Header = () => {
           <div className='left-down'>
             <span className='discuss'>Discuss</span>
             <span className='learn'>Learn <span className='and'>&</span></span>
-            <span className='code'>Code</span>
+            <span className='code'>Grow</span>
           </div>
         </div>
         <div className='right'>
