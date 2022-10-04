@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    height: 50vh;
+    width: 100%;
+}
