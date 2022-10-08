@@ -1,7 +1,7 @@
 import React from 'react'
 import '../Navigation/NavBar.css'
 import { Link } from 'react-scroll'
-import Button from '@mui/material/Button';
+import Button from '@mui/material/Button'
 
 const NavBar = () => {
   return (
