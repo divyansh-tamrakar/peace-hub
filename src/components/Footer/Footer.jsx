@@ -8,7 +8,7 @@ const Footer = () => {
           <h1>Logo</h1>
         </aside>
         <main>
-          
+          <h1>hi</h1>
         </main>
     </footer>
   )

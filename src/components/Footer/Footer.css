@@ -14,5 +14,12 @@
 
 aside {
     position: relative;
-    float: left;
+    top: 70%;
+    right: 30%;
+}
+
+main {
+    position: relative;
+    top: 20%;
+    left: 0%;
 }
