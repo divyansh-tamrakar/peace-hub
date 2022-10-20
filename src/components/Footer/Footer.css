@@ -6,7 +6,13 @@
 }
 
 .footer {
-    height: 50vh;
+    height: 70vh;
     width: 100%;
     color: azure;
+    position: absolute;
+}
+
+aside {
+    position: relative;
+    float: left;
 }
