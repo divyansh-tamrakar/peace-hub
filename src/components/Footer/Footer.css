@@ -6,20 +6,42 @@
 }
 
 .footer {
-    height: 70vh;
+    height: auto;
     width: 100%;
     color: azure;
-    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -80px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    backdrop-filter: blur(10px);
+
 }
 
-aside {
-    position: relative;
-    top: 70%;
-    right: 35%;
+aside .logo-1 {
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
 }
 
-main {
-    position: relative;
-    top: 20%;
-    left: 0%;
+.logo-2 {
+    height: calc(100% - 25px);
+    width: calc(100% - 25px);
+    border-radius: 50%;
+}
+
+.logo-2 img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.footer-1 {
+    text-align: center;
+    line-height: 1.3rem;
 }

@@ -11,7 +11,7 @@ function App() {
       <NavBar />
       <Header />
       <About />
-      <footer className='footer' id='footerId'>
+      <footer className='footer-main' id='footerId'>
         <Contacts />
         <Footer />
       </footer>
