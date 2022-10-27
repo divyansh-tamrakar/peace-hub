@@ -20,12 +20,9 @@ const About = () => {
               aspernatur sequi, quia animi consequatur debitis!
             </p>
             <div className="btn">
-              <button className="button">
-                <span>Sign Up now!</span>
-              </button>
+              <button className="button">Sign Up now!</button>
             </div>
           </div>
-            
         </div>
       </div>
     </div>

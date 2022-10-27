@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <div className='parent'>
       <header className='name'>
-        <h3>Nishant</h3>
+        <h3>Campus Connect</h3>
       </header>
       <nav className='nav'>
         <ul className='nav-links'>
@@ -23,7 +23,7 @@ const NavBar = () => {
         </ul>
       </nav>
       <div className='signup'>
-        <Button variant="text" sx={{color:'#BC6FF1'}}>Sign Up</Button>
+        <Button href="../Login/Login.jsx" sx={{color:'#BC6FF1'}}>Sign Up</Button>
       </div>
     </div>
   )
